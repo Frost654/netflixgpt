@@ -1,9 +1,10 @@
 
-import './App.css';
+
+import Body from './Body';
 
 const App=()=>{
   return(
-    <div className='text-3xl font-bold underline color-red'>Hello From tailwindCss and React Project</div>
+  <Body></Body>
   )
 }
 
